@@ -1,4 +1,5 @@
-// © 2019 Ralf Ebert — CustomDrawing
+// (C) 2019, Ralf Ebert - iOS Example Project: CustomDrawing
+// License: https://opensource.org/licenses/0BSD
 
 import UIKit
 

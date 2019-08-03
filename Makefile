@@ -2,7 +2,7 @@ project:
 	xcodegen
 
 format:
-	swiftformat --header "© 2019 Ralf Ebert — CustomDrawing" --swiftversion 5 --indentcase true --stripunusedargs unnamed-only --self insert --disable blankLinesAtStartOfScope,blankLinesAtEndOfScope .
+	swiftformat --header "(C) 2019, Ralf Ebert - iOS Example Project: CustomDrawing\nLicense: https://opensource.org/licenses/0BSD" --swiftversion 5 --indentcase true --stripunusedargs unnamed-only --self insert --disable blankLinesAtStartOfScope,blankLinesAtEndOfScope .
 
 assets:
 	# export icon
